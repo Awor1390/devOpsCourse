@@ -1,2 +1,2 @@
 # devOpsCourse
-DevOps test repo. Uses for practic and tests
+DevOps test repo. Uses for practice and tests
